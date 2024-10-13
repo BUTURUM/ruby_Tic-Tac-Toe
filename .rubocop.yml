@@ -1,0 +1,9 @@
+AllCops:
+  Exclude:
+    - './Gemfile'
+    - './Gemfile.lock'
+  NewCops: enable
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
